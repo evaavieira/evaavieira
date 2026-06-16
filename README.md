@@ -30,6 +30,12 @@ Minha trajetória envolve projetos relacionados a:
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge)
 ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge\&logo=microsoft-sharepoint\&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
+![AWS Cloud](https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge\&logo=looker\&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge\&logo=googleanalytics\&logoColor=white)
 
 ---
 
